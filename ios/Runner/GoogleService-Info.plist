@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1045315911812-eriecfrt9ggnb9r3alucg54ocaip3q64.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1045315911812-eriecfrt9ggnb9r3alucg54ocaip3q64</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1045315911812-c8jc0ipndk1cq786ejpa4kh45qor3oif.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBogfBhvzXZHrvdJH_7sKRbOFLO_Yti7p4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1045315911812</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.faarun.faarunform</string>
+	<key>PROJECT_ID</key>
+	<string>faarunform</string>
+	<key>STORAGE_BUCKET</key>
+	<string>faarunform.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1045315911812:ios:e509e23cd20454e75e82d1</string>
+</dict>
+</plist>

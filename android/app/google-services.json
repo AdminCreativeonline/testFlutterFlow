@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1045315911812",
+    "project_id": "faarunform",
+    "storage_bucket": "faarunform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045315911812:android:08e6131c763f65055e82d1",
+        "android_client_info": {
+          "package_name": "com.faarun.faarunform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045315911812-c8jc0ipndk1cq786ejpa4kh45qor3oif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faarun.faarunform",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1045315911812-up5uj5om7u8jvkf2dggp14mn3cc4glms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl9ylx63Bp81VmYrlFzwxqBg-ftDTf_KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045315911812-up5uj5om7u8jvkf2dggp14mn3cc4glms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045315911812-eriecfrt9ggnb9r3alucg54ocaip3q64.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.faarun.faarunform"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
